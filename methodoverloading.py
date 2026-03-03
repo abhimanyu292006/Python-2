@@ -2,6 +2,7 @@ class calculator:
     def add(self,a,b,c):
         return a+b+c
 cal=calculator()
-print(cal.add(5,0,0))
-print(cal.add(10,20,0))
-print(cal.add(10,20,30))
+print(cal.add(7,0,0))
+print(cal.add(20,50,0))
+print(cal.add(70,50,20))
+
