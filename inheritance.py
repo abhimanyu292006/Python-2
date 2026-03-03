@@ -13,11 +13,12 @@ class student(Person):
     def stud(self):
         print(" I am a student")
 
-stud1 = student("kaushal" , 18 , 96)
+stud1 = student("abhimanyu" , 19 , 84)
 stud1. stud()
-stud1.marks = 97
-stud1.name = "sagar"  
+stud1.marks = 85
+stud1.name = "abhi"  
 stud1.display()
       
+
 
 
